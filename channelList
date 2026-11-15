@@ -1,1 +1,45 @@
-prueba de texto
+[
+  { "handle": "@todonoticias", "name": "TN - Todo Noticias", "genre": "Noticias" },
+  { "handle": "@c5n", "name": "C5N", "genre": "Noticias" },
+  { "handle": "@lanacion", "name": "LN+ La Nación", "genre": "Noticias" },
+  { "handle": "@A24com", "name": "A24", "genre": "Noticias" },
+  { "handle": "@canal26", "name": "Canal 26", "genre": "Noticias" },
+  { "handle": "@cronicatv", "name": "Crónica TV", "genre": "Noticias" },
+  { "handle": "@clarincom", "name": "Clarín", "genre": "Noticias" },
+  { "handle": "@perfiltv", "name": "Perfil TV", "genre": "Noticias" },
+
+  { "handle": "@Telefe", "name": "Telefe", "genre": "Aire" },
+  { "handle": "@eltrece", "name": "El Trece", "genre": "Aire" },
+  { "handle": "@elnueve", "name": "El Nueve", "genre": "Aire" },
+  { "handle": "@americaenvivo", "name": "América TV", "genre": "Aire" },
+  { "handle": "@CanalSieteOk", "name": "TV Pública", "genre": "Aire" },
+
+  { "handle": "@olgaenvivo_", "name": "Olga", "genre": "Streaming" },
+  { "handle": "@luzutv", "name": "Luzu TV", "genre": "Streaming" },
+  { "handle": "@estoesblender", "name": "Blender", "genre": "Streaming" },
+  { "handle": "@SomosGelatina", "name": "Gelatina", "genre": "Streaming" },
+  { "handle": "@NeuraMedia", "name": "Neura", "genre": "Streaming" },
+  { "handle": "@VorterixOficial", "name": "Vorterix", "genre": "Streaming" },
+  { "handle": "@UrbanaPlayFM", "name": "Urbana Play", "genre": "Radio" },
+  { "handle": "@fmrockandpop959", "name": "Rock & Pop", "genre": "Radio" },
+  { "handle": "@Radiomitre", "name": "Radio Mitre", "genre": "Radio" },
+
+  { "handle": "@CasadosConHijosArg", "name": "Casados con Hijos", "genre": "Series" },
+  { "handle": "@elchavodel8", "name": "El Chavo del 8", "genre": "Series" },
+  { "handle": "@CasoCerrado", "name": "Caso Cerrado", "genre": "Entretenimiento" },
+  { "handle": "@RickandMortyLA", "name": "Rick and Morty", "genre": "Animación" },
+  { "handle": "@watchmojoespanol", "name": "WatchMojo Español", "genre": "Entretenimiento" },
+  { "handle": "@Todo_Cine", "name": "Todo Cine", "genre": "Cine" },
+
+  { "handle": "@NationalGeographicEspanol", "name": "Nat Geo", "genre": "Documentales" },
+  { "handle": "@LoveNatureEnEspañol", "name": "Love Nature", "genre": "Naturaleza" },
+
+  { "handle": "@dwespanol", "name": "DW Español", "genre": "Internacional" },
+  { "handle": "@France24_es", "name": "France 24", "genre": "Internacional" },
+  { "handle": "@euronewses", "name": "Euronews", "genre": "Internacional" },
+  { "handle": "@rtvenoticias", "name": "RTVE 24H", "genre": "Internacional" },
+  { "handle": "@cnnee", "name": "CNN en Español", "genre": "Internacional" },
+  { "handle": "@nmasunivision", "name": "N+ Univisión", "genre": "Internacional" },
+  { "handle": "@VozdeAmerica", "name": "Voz de América", "genre": "Internacional" },
+  { "handle": "@TRTEspanol", "name": "TRT Español", "genre": "Internacional" }
+]
